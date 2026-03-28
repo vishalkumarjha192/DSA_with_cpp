@@ -79,6 +79,11 @@ g++ array_part1.cpp -o array
 ---
 
 ## 🙌 Author
+**Vishal Kumar Jha**
+
+GitHub:\
+https://github.com/vishalkumarjha192
+
 
 Learning DSA with C++ 💪
 
