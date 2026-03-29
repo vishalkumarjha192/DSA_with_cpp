@@ -156,7 +156,6 @@ int reverseVec(vector<int> &vec, int size) {
 ./vector_part1
 ./vector_part2
 ./vector_practice
-```
 
 > Pre-compiled `.exe` files are included for Windows users.
 
