@@ -336,6 +336,16 @@ output.exe
 
 ---
 
+## ✨ Author
+
+**Vishal Kumar Jha**
+
+GitHub:\
+https://github.com/vishalkumarjha192
+
+
+---
+
 <div align="center">
 Learning DSA one topic at a time 🚀
 </div>
