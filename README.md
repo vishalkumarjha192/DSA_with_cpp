@@ -317,12 +317,12 @@ output.exe
 
 ## 📈 My Progress
 
-- [x] C++ Basics
-- [x] Time & Space Complexity
+- [ ] C++ Basics
+- [ ] Time & Space Complexity
 - [ ] Recursion
 - [ ] Arrays
 - [ ] Strings
-- [x] Pointers
+- [ ] Pointers
 - [ ] Linked List
 - [ ] Stack
 - [ ] Queue
