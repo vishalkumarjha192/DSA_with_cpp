@@ -83,5 +83,13 @@ g++ binary_search_part1.cpp -o output
 
 ---
 
-## ⭐ Support
-If you found this useful, give it a ⭐ on GitHub!
+## 🙌 Author
+**Vishal Kumar Jha**
+
+GitHub:\
+https://github.com/vishalkumarjha192
+
+
+Learning DSA with C++ 💪
+
+---
