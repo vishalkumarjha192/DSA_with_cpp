@@ -322,7 +322,7 @@ output.exe
 - [ ] Recursion
 - [ ] Arrays
 - [ ] Strings
-- [X] Pointers
+- [ ] Pointers
 - [ ] Linked List
 - [ ] Stack
 - [ ] Queue
